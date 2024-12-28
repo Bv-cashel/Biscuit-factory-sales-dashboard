@@ -1,0 +1,13 @@
+	
+Keys
+1.	Revenue Distribution – by product price category (high price vs low price) i.e, low>=10, high <10
+2.	By age group and gender & by payment method
+3.	Profitability Analysis: Most Profitable brand, location, customer and sales person – Lead One
+4.	Sales Performance : Metrics such as quantity sold, total revenue, total cost of goods sold(COGS) and Total profits.
+5.	Filter : Location, Payment and Age group
+
+
+
+
+
+
